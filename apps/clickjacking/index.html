@@ -1,0 +1,41 @@
+
+<html>
+    <head>
+        <title>Clickjacking / framing test</title>
+        <!--<script type="text/javascript" src="clickjack.js"></script>-->
+	<script>
+function frameIt() {
+   var url = document.getElementById("url").value;
+   var iframe = document.getElementById("iframe");
+
+   iframe.src = url;
+
+} 
+
+document.addEventListener('DOMContentLoaded', function () {
+   document.getElementById('submit-test').addEventListener('click',
+       function() {
+          frameIt();
+       }
+   );
+});
+</script>
+    </head>
+    <body>
+        <h1>Test a page for clickjacking/framing vulnerability</h1>
+        <p>Enter the URL to frame:</p>
+        <input id="url" type="text" value="http://example.com"></input>
+        <button id="submit-test">Test it!</button>
+        <br />
+        <iframe src="about:blank" id="iframe" width="800px" height="600px"></iframe>
+        
+        <br/>
+        <a href="https://apps.irfnrdh.com/"><< Back to homepage</a>
+        
+        <!--Perbaiki : 
+- https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options
+- https://www.keycdn.com/blog/x-frame-options-->
+    </body>
+</html>
+
+

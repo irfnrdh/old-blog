@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+   <head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+      <title>
+         Javascript Document.Write Generator
+      </title>
+      <link type="text/css" rel="stylesheet" href="style.css">
+      <meta name="Keywords" content="steve,nolte,madlib,javascript,fun,story">
+      <meta name="Description" content="A Javascript Madlib page creator">
+      
+<script src="internolte.js" type="text/javascript">
+</script>
+<script src="prototype.js" type="text/javascript"></script>
+<script type="text/javascript">
+<!--
+    
+	function convert()
+	{
+		startLine = "document.writeln(\"";
+		endLine = "\");\n";
+		str = $F('before');
+		str = str.replace(/\r/g, '');
+		str = str.replace(/"/g, "\\\"");
+		str = str.replace(/'/g, "\\'");
+		// Keep the validators happy (thanks A. Smeels :)
+		str = str.replace(/\//g, "\\/");
+		
+		lines = str.split("\n");
+		str = '';
+		for ( i = 0; i < lines.length; i++ )
+		{
+			str += startLine + lines[i] + endLine;
+		}
+
+		$('after').value = str;
+	}
+	
+	function highlightelist()
+	{
+		$('after').select();
+		$('after').focus();
+	}
+
+	function copyelist()
+	{
+		highlightelist();
+		textRange = $('after').createTextRange();
+		textRange.execCommand("RemoveFormat");
+		textRange.execCommand("Copy");
+		alert("The code has been copied to your clipboard.");
+	}
+//-->
+</script>
+   </head>
+   <body onload="$('before').focus()">
+<script language="JavaScript" type="text/javascript">
+ <!--
+ topnav();
+ //--> 
+</script>
+
+		<br>
+        <span class="title">
+			<strong>Javascript Document.Write Generator</strong>
+		</span>
+	  <span class="version">version 3.1</span>
+      <p>
+         Paste or write text below.
+      </p>
+		<form name="myForm">
+			<textarea name="before" id="before" cols="80" rows="10"></textarea><br/><br/>
+			<input type="button" onclick="convert()" value="Convert text to Javascript"><br/><br/>
+		
+			<textarea name="after" id="after" cols="80" rows="10"></textarea></br></br>
+			
+		<script language="JavaScript" type="text/javascript">
+		<!--
+		if ((navigator.appName=="Microsoft Internet Explorer")&&(parseInt(navigator.appVersion)>=4)) {
+			document.write('<INPUT type="button" value="Copy to clipboard" onClick="copyelist();">');
+		} else {
+			document.write('<INPUT type="button" value="Select all" onClick="highlightelist();">');
+		}
+		// -->
+		</script>
+			<input type="reset" value="Reset">
+		</form>
+<br/><br/><br/>
+<a href="https://apps.irfnrdh.com/"><< Back to homepage</a>
+  </html>
+
+

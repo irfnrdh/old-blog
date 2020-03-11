@@ -1,0 +1,320 @@
+body
+{
+	background-color: White;
+	color: black;
+	font-family: sans-serif, Verdana;
+	font-size: 10pt;
+}
+
+/* for the Google Ads */
+iframe {
+	float: right;
+}
+
+img {
+	border: none;
+}
+
+table.layout
+{
+	background-color: White;
+	width: 750px;
+	padding: 10px;
+	border: solid 2px #aaa;
+	margin-left:auto;
+	margin-right:auto;
+	text-align: center;
+}
+
+table.content
+{
+	background-color: #ccc;
+	width: 100%;
+	padding: 10px;
+	border: solid 2px #aaa;
+	margin-left:auto;
+	margin-right:auto;
+	text-align: center;
+	vertical-align : top;
+}
+
+table.clock
+{
+	float: right;
+	background-color: White;
+	text-align: right;
+}
+
+td.contentTop
+{
+	text-align: left;
+	vertical-align : top;
+	background-color: White;
+}
+
+td.contentTopRight
+{
+	width: 400px;
+	text-align: left;
+	background-color: #999;
+	padding: 2px;
+}
+
+td.content
+{
+	width: 33%;
+	text-align: left;
+	vertical-align : top;
+	background-color: #ccc
+}
+
+a
+{
+	font-family: sans-serif, Verdana;
+	font-weight: bold;
+}
+
+a:visited
+{
+	color: #000066;
+	font-family: sans-serif, Verdana;
+	font-weight: bold;
+}
+
+a:hover
+{
+	color: #0000ff;
+	font-family: sans-serif, Verdana;
+	font-weight: bold;
+	text-decoration: none
+}
+
+a.menu
+{
+	color: #000000;
+	background-color: transparent;
+	font-family: sans-serif, Verdana;
+	font-weight: bold;
+}
+
+a.menu:visited
+{
+	color: #000066;
+	background-color: transparent;
+	font-family: sans-serif, Verdana;
+	font-weight: bold;
+}
+
+a.menu:hover
+{
+	color: #0000ff;
+	font-family: sans-serif, Verdana;
+	font-weight: bold;
+	text-decoration: none
+}
+
+h1
+{
+	background-color: transparent;
+	font-family: sans-serif, Verdana;
+	font-size: 36pt
+}
+
+h2
+{
+	background-color: transparent;
+	font-family: sans-serif, Verdana;
+	font-size: 24pt
+}
+
+h3
+{
+	background-color: transparent;
+	font-family: sans-serif, Verdana;
+	font-size: 18pt
+}
+
+h4
+{
+	background-color: transparent;
+	font-family: sans-serif, Verdana;
+	font-size: 12pt
+}
+
+form
+{
+	background-color: transparent;
+	color: black;
+	font-family: sans-serif, Verdana;
+	font-size: 10pt;
+	margin-top:0px;
+	margin-bottom:0px
+}
+
+p
+{
+	background-color: transparent;
+	font-family: sans-serif, Verdana;
+	font-size: 10pt
+}
+
+ul
+{
+	background-color: transparent;
+	font-family: sans-serif, Verdana;
+	font-size: 10pt
+}
+
+li
+{
+	background-color: transparent;
+	font-family: sans-serif, Verdana;
+	font-size: 10pt;
+	margin: 0pt
+}
+
+img.home
+{
+	border : 2px solid Black;
+}
+
+.libword
+{
+	background-color: transparent;
+	font-family: sans-serif, Verdana;
+	color: #000099;
+	font-size: 10pt;
+}
+
+span.title
+{
+	background-color: transparent;
+	font-family: sans-serif, Verdana;
+	font-size: 18pt
+}
+
+span.author
+{
+	background-color: transparent;
+	font-family: sans-serif, Verdana;
+	font-size: 14pt
+}
+
+span.date
+{
+	background-color: transparent;
+	font-family: sans-serif, Verdana;
+	font-size: 10pt
+}
+
+span.version
+{
+	background-color: transparent;
+	font-family: sans-serif, Verdana;
+	font-size: 8pt
+}
+
+#dirslist{background-color:rgb(255,51,51); padding:10px 10px;}
+#fileslist{background-color:rgb(255,220,220); color:rgb(110,0,0); padding:10px 30px;}
+#copy{padding: 20px 30px; font-size:9px;}
+
+td.cardNum {
+	font-family: Arial, Sans-serifs;
+	font-size: 12px;
+	float: left;
+	font-weight: bold;
+}
+input.control {
+	width: 60px;
+	height: 60px;
+	border: none;
+	text-align: center;
+	padding-top: 15px;
+	font-size: 18px;
+}
+input.player {
+	width: 100px;
+	height: 20px;
+	border: solid gray 1px;
+	text-align: center;
+	padding-top: 0px;
+	font-size: 14px;
+	font-weight: bold;
+}
+input.button {
+	width: 100px;
+	height: 20px;
+	border: solid gray 1px;
+	text-align: center;
+	padding-top: 0px;
+	font-size: 12px;
+}
+select {
+	width: 80px;
+	border: none;
+	font-size: 10px;
+	margin-bottom: 3px;
+}
+input.smaller {
+	width: 80px;
+	font-size: 10px;
+	margin-bottom: 3px;
+}
+td.fieldTitle {
+	font-size: 12px;
+	font-weight: bold;
+	text-align: right;
+}
+img.card {
+	border: solid 1px #ccc;
+}
+img.dot {
+	border: none;
+}
+
+
+
+/* begin styles for RSS Feed */
+
+.rss_box {
+	 margin: 1em;
+/*	 width: 98%;*/
+	 background-color: #EEE;
+	 border: 1px solid silver;
+	 
+}
+.rss_items {
+	margin-top:0px;
+	padding:0.5em;
+	margin-left:0px;
+	color:#000000;
+}
+p.rss_title {padding:0.5em;}
+.rss_title {
+	font-size: 8pt;
+	background-color: silver;
+	color: gray;
+	font-weight:bold;
+	text-align: left;
+}
+
+.rss_item  {
+  font-size: 7pt;
+  list-style:none;
+  padding-bottom:1em;
+}
+
+.rss_item a {
+	color:navy;
+	font-size: 9pt;
+	font-weight:bold;
+	}
+	
+.rss_item a:visited {
+	color: black;
+}
+
+.rss_date {
+	font-size: 7pt;
+	color: red;
+	}
