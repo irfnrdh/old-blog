@@ -1,1 +1,0 @@
-Berikut list tulisan saya :
