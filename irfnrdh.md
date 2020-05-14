@@ -19,10 +19,9 @@ tapi itu tidak membuatnya merasa aneh, karena dia percaya.
 ini adalah hari terakhirnya.
 <br/>
 tak banyak yang bisa ia bagikan, kecuali catatan kecil ini. 
+<br/>
 semoga bermanfaat. ^_^
 <br/>
-<br/>
-
 - [Introduce](https://irfnrdh.github.io/intro/)
 - [Artwork](https://irfnrdh.github.io/karya/)
 
