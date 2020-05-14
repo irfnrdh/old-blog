@@ -9,3 +9,7 @@ permalink: /
 # Selamat Datang!
 
 Tenang!, saya tidak meng-gigit kok -_-
+
+{% highlight python %}
+print("hello world! from tiny town")
+{% endhighlight %}
