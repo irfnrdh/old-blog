@@ -4,7 +4,7 @@ layout: home
 permalink: /
 ---
 
-![Image](img/imgg.jpg)
+![Image](https://raw.githubusercontent.com/irfnrdh/irfnrdh.github.io/master/img/imgg.jpg)
 
 # Selamat Datang!
 
