@@ -8,7 +8,7 @@ header_pages:
   - irfnrdh.md
   - about.md
   - contact.md
-#  - apps/index.html
+  - apps/index.html
 
 style: dark
 
