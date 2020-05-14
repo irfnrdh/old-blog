@@ -28,7 +28,7 @@ Busyet dah, 2020 baru pertama kali coba SSD? serius ini mah. saya bakal gak beli
 
 # Pertama kali pakai RAM 16GB
 whatsszz. 2020 baru pertama kali pakai ram 16gb? serius ini mah. saya paling besar 4gb dan ini di 16gb saya jadi gak mau lagi balik ke 4gb malah pengen 32gb. perubahannya itu aktivitas multitasking jadi luar biasa enak banget. belum pernah ane rasain buka photoshop cepet banget apalagi ini yang versi 2020. beuhh, emanglah saya update berita teknologi tapi belum tentu update teknologi.<br/>
-<br/>
+
 
 # Pertama kali pakai GPU 4GB
 whatszz. 2020 baru pertama kali pakai GPU? serius ini mah. yaa jujur aja ini baru ada rezekinya datang tiba-tiba. mikirin beli GTX 1660s sama GTX 1650s itu aja sampai 2 minggu cuyy. bolak balik lihat riview, bolak balik lihat spesifikasi. tapi hasil ekpetasi ane melebi ternyata. walau akhirnya cuma bisa ambil GTX 1650s, tapi gpp bisa coba DDR6 sedangkan DDR6 di GTX 1660s itu udah 4 jutaan ketas. paling DDR5 yang dibawah 4jt atau perbedaannya itu 400rb lebih deh udah dapat 6GB sih tapi DDR5.<br/>
@@ -55,6 +55,6 @@ saya sudah coba menggambar dengan ukuran kanvas 5000px 300dpi tapi bagus amat un
 saya sangat bersyukur dengan awal yang baru ini. nanti saya akan bagikan bagaimana pengalamannya setelah pindah dari macbook, imac, laptop ke PC rakitan ini.<br/>
 
 intinya. harus banyak bersabar untuk bisa mendapatkan hasil yang lebih baik. <br/>
-
+<br/>
 
 
