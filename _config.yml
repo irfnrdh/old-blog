@@ -1,0 +1,18 @@
+title: 'irfnrdh'
+description: "terserah kamu aja deh :v"
+baseurl: "/jekyll-theme-console"
+url: "https://irfnrdh.github.io"
+
+header_pages:
+  - index.md
+  - peter.md
+  - about.md
+  - contact.md
+
+style: dark
+
+footer: 'follow me on <a href="https://twitter.com/irfnrdh">twitter</a>'
+
+# Build settings
+markdown: kramdown
+remote_theme: b2a3e8/jekyll-theme-console
