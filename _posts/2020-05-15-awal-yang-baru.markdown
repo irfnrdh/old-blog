@@ -42,7 +42,7 @@ ya, saya masih belum tahu bagaimana selanjutnya dengan biaya listrik. soalnya sa
 # Akhirnya saya bisa menggambar lagi
 saya sudah coba menggambar dengan ukuran kanvas 5000px 300dpi tapi bagus amat untuk penggunaan brushnya gak ada lag sama sekali. wihh jadi bersyukur biar teruskan tantangan menggambar 1000 gambar abstrak.
 
-![Image](https://raw.githubusercontent.com/irfnrdh/irfnrdh.github.io/master/karya/lukisan/01-brush17/17brush-vkarya/lukisan
+![Image](https://raw.githubusercontent.com/irfnrdh/irfnrdh.github.io/master/karya/lukisan/01-brush17/17brush-view.png)
 
 # Akhir kata
 saya sangat bersyukur dengan awal yang baru ini. nanti saya akan bagikan bagaimana pengalamannya setelah pindah dari macbook, imac, laptop ke PC rakitan ini.
