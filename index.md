@@ -4,6 +4,6 @@ layout: home
 permalink: /
 ---
 
-# Welcome
+# Selamat Datang!
 
-Apa iyaa nya -_-
+Tenang!, saya tidak meng-gigit kok -_-
