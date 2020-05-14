@@ -24,5 +24,5 @@ semoga bermanfaat. ^_^
 <br/>
 
 - [Introduce](https://irfnrdh.github.io/intro/)
-- [Artwork, mei-2020](https://irfnrdh.github.io/karya/)
+- [Artwork](https://irfnrdh.github.io/karya/)
 
