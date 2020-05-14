@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Awal yang baru"
-date:   2020-05-15 08:80:88 +0800
+date:   2020-05-15 01:80:88 +0800
 categories:
 ---
 
