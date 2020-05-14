@@ -11,5 +11,5 @@ permalink: /
 Tenang!, saya tidak meng-gigit kok -_-
 
 {% highlight python %}
-print("hello world! from tiny town")
+print("hello world! from inner village")
 {% endhighlight %}
