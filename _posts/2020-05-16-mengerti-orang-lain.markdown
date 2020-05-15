@@ -32,11 +32,11 @@ mengerti orang lain itu sulit, karena tentu akan berdampak pada diri yang juga s
 maka dari itu perlunya sikap menghargai. 
 
 >anda sopan kami segan
- anda tidak sopan kami tidak segan-segan
- anda nekat kami sikat
- anda melunjak kami tekan
- anda baik kami baik
- anda jujur kami bersyukur
- anda curang kami perang
- anda terlalu baik kami curiga
- anda caleg?
+anda tidak sopan kami tidak segan-segan
+anda nekat kami sikat
+anda melunjak kami tekan
+anda baik kami baik
+anda jujur kami bersyukur
+anda curang kami perang
+anda terlalu baik kami curiga
+anda caleg?
