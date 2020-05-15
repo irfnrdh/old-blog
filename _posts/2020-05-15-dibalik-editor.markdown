@@ -31,5 +31,7 @@ Marketing tanpa modal, dengan memasukkan biayanya sepenuhnya pada pengalaman ora
 ## Jadii, ini pertama kali juga gunain
 ia pertama kali gunain stackedit.io sebagai editor untuk menulis dan asiknya bisa langsung di hubungkan baik itu ke blogger, github, gitlab, wordpress dan lainnya.
 
-jadi pengen nulis teruss.
+tapi sayangnya ia melakukan convert otomatis ke HTML.
+
+jadi pengen nulis terussnya jadi moody.
 
