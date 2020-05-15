@@ -56,6 +56,7 @@ jadi masih mau melakukan maksiat?
 melakukan maksiat ada dua hal, 
 1. orang yang mengerti kalau ia sedang bermaksiat,
 2. orang yang tidak mengerti bahwa ia sedang melakukan maksiat.
+
 <br/>
 cara terapi dan memberikan penjelasannya juga berbeda cara. 
 jangan main langsung bilang hal yang dapat menyayat hatinya. 
