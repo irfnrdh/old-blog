@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mereka harus dimengerti"
-date:   2020-05-16 14:13:45 +0100
+date:   2020-05-16 1:13:45 +0100
 categories:
 ---
 
