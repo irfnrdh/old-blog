@@ -13,4 +13,4 @@ Diantarnya :
 1. Keburukan dibalas keburukan adalah dendam
 2. Kebaikan dibalas dengan kebaikan adalah wajar
 3. Kebaikan dibalas dengan keburukan adalah zhalim
-4. Keburukan dibalas dengan kebaikan adalah muliah
+4. Keburukan dibalas dengan kebaikan adalah **mulia**
