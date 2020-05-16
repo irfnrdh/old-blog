@@ -4,7 +4,7 @@ title: /karya
 permalink: /karya/
 ---
 
-# Inilah aku, 
+# Inilah aku,  
 # sama seperti apa yang telah aku buat
 
 ## Lukisan
