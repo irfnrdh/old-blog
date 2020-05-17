@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Untuk Istriku"
+date:   2020-05-17 22:13:45 +0100
+categories:
+---
+
+It might not be the right time
+I might not be the right one
+<br/>
+But there's something about us I want to say
+'Cause there's something between us anyway
+<br/>
+I might not be the right one
+It might not be the right time
+<br/>
+But there's something about us I've got to do
+Some kind of secret I will share with you
+I need you more than anything in my life
+I want you more than anything in my life
+I'll miss you more than anyone in my life
+I love you more than anyone in my life
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2CCNswShJRc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
