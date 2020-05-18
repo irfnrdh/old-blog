@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Autodidacticism"
-date:   2020-05-17 22:13:45 +0100
+date:   2020-05-18 14:13:45 +0100
 categories:
 ---
 
