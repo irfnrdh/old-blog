@@ -18,8 +18,9 @@ footer: 'follow me on <a href="https://twitter.com/irfnrdh">tw</a>, <a href="htt
 # Build settings
 markdown: kramdown
 
-remote_theme: piharpi/jekyll-klise
-#b2a3e8/jekyll-theme-console
+remote_theme: b2a3e8/jekyll-theme-console
+#piharpi/jekyll-klise
+
 
 plugins:
   - jekyll-spaceship
