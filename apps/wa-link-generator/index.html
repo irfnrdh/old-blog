@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="theme-color" content="#4fc08d">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="#4fc08d">
+	<meta name="msapplication-navbutton-color" content="#4fc08d">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <style>
+    .hide{
+	display: none;
+    }
+
+    .show{
+        display: show;
+    }
+    </style>
+
+    <title>Whatsapp link generator</title>
+  </head>
+  <body style="background: #075e54;">
+	<center class="container">
+		<div class="card text-center col-sm-6" style="margin-top: 5rem; border-radius: 20px;">
+		  <div class="card-body">
+		  	<h3 class="mt-10">Whatsapp Generator</h3>
+					
+				<br>		
+				<form class="mx-auto" id="generateLink">
+				  <div class="form-group">
+				    <label for="formGroupExampleInput">Masukkan Nomor WA:</label>
+
+				    <input maxlength="15" style="border-radius: 20px;" id="phoneNumber" type="text" class="form-control" id="formGroupExampleInput" placeholder="Nomor WA" value="+62">
+
+				  </div>
+				  <div class="form-group">
+				    <label for="formGroupExampleInput2">Pesan:</label>
+				    <input maxlength="120" style="border-radius: 20px;" id="userMessage" type="text" class="form-control" id="formGroupExampleInput2" placeholder="Masukan pesan kamu disini...">
+
+				  </div>
+                
+				  <button style="border-radius: 25px;" class="btn btn-success" type="submit">Buat Link WA</button>
+                    
+                  <div class="form-group">
+                    
+                    <label for="formGroupExampleInput2"></label>
+                       
+                    <input id="generatedLink"  style="border-radius: 20px;"  class="form-control" name="text" value="" type="text">
+                        
+                  </div>
+
+                </form>
+		  </div>
+		</div>
+			<br>
+	<br>
+	<center>
+		<div class="hide" id="hide">
+			<div class="alert alert-dark alert-dismissible fade show w-auto" role="alert">
+				 <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+				   <span aria-hidden="true">&times;</span>
+				 </button>	
+				 <a id="generatedLink" class="alert-link" href="#" target="blank"></a>
+			</div>
+		</div>
+	</center>
+
+	</center>
+
+
+
+    <!-- Optional JavaScript -->
+    <script>
+
+
+
+        generateLink.addEventListener('submit', function(e) {
+        var phoneNumber = document.getElementById('phoneNumber').value;
+        var userMessage = document.getElementById('userMessage').value;
+        var hide = document.getElementById('hide');
+        var generatedLink = 'https://wa.me/'+phoneNumber+'?text='+userMessage;
+        var link = document.getElementById('generatedLink');
+        var validate = isNaN(phoneNumber);
+
+        if (validate == true) {
+
+            link.innerHTML = "Telefone invalido";
+            if (hide.className == 'hide') {
+                hide.className = 'show';
+            }
+
+        }else{
+            link.innerHTML = generatedLink;
+            link.value = generatedLink;
+            link.setAttribute('href', generatedLink);
+            if (hide.className == 'hide') {
+                hide.className = 'show';
+            }
+        }
+    e.preventDefault();
+    });
+
+	</script>   
+	<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  </body>
+</html>

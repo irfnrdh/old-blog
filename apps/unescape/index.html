@@ -1,0 +1,81 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang='en'>
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml; charset=utf-8"/>
+  <title>Unescape Decoder and Encoder for Javascript</title>
+  <meta name="description" content="Online tool for decoding and encoding Unescape, which is used with Javascript and also when hacking and inserting malicious code"/>
+   <script language="javascript"/>
+      var encN=1;
+
+      function decodeTxt(s){
+      var s1=unescape(s.substr(0,s.length-1));
+      var t='';
+      for(i=0;i<s1.length;i++)t+=String.fromCharCode(s1.charCodeAt(i)-s.substr(s.length-1,1));
+      return unescape(t);
+      }
+
+      function encodeTxt(s){
+      s=escape(s);
+      var ta=new Array();
+      for(i=0;i<s.length;i++)ta[i]=s.charCodeAt(i)+encN;
+      return ""+escape(eval("String.fromCharCode("+ta+")"))+encN;
+      }
+
+      function escapeTxt(os){
+      var ns='';
+      var t;
+      var chr='';
+      var cc='';
+      var tn='';
+      for(i=0;i<256;i++){
+      tn=i.toString(16);
+      if(tn.length<2)tn="0"+tn;
+      cc+=tn;
+      chr+=unescape('%'+tn);
+      }
+      cc=cc.toUpperCase();
+      os.replace(String.fromCharCode(13)+'',"%13");
+      for(q=0;q<os.length;q++){
+      t=os.substr(q,1);
+      for(i=0;i<chr.length;i++){
+      if(t==chr.substr(i,1)){
+      t=t.replace(chr.substr(i,1),"%"+cc.substr(i*2,2));
+      i=chr.length;
+      }}
+      ns+=t;
+      }
+      return ns;
+      }
+      function unescapeTxt(s){
+      return unescape(s);
+      }
+      function wF(s){
+      document.write(decodeTxt(s));
+      }
+    </script>
+  </head>
+  <body bgcolor="#FFFFFF" alink="#5E5E5E" link="#5E5E5E" vlink="#2e9ed2">
+    
+      
+      <center><h2>Online Unescape Decoder and Encoder</h2><br/><font color=#000000 size="5">
+        <form name="fA">
+          Place Plain Source Here and Hit Encode
+          <br/>
+          <textarea id="f1" cols=50 rows=10 wrap="off"></textarea>
+          <br/><br/>
+          <input type="button" width="50%" value="Encode" onclick="document.fA.c1.value=escapeTxt(document.fA.f1.value)"> &nbsp; &nbsp;
+          <input type="button" value="Decode" onclick="document.fA.f1.value=unescapeTxt(document.fA.c1.value)">
+          <br/><br/>Paste Encoded Here and Hit Decode
+          <br/>
+          <textarea id="c1" cols=50 rows=10></textarea>
+          <br/><br/>
+          <font color=#000000 size="3">
+            This can be used with the unescape( ); function in JavaScript.<br/>This online tool will Decode and Encode Unescape<br/><br/>People often use Unescape when hacking and inserting links.<br/>This tool is good for decoding such hacks and iFrame codes.<br/><br/>
+            <a href="http://apps.irfnrdh.com/"><< Back to homepage</a>
+          </font>
+        </form>
+      </center>
+    </font>
+  </body>
+</html>
