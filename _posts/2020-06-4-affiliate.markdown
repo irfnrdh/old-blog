@@ -24,6 +24,11 @@ Komisi ->  bagi hasil atau imbalan yang diberikan oleh vendor kepada affiliate m
 
 # List Vendor :
 - https://www.zalora.co.id/partner/
+- https://www.digitalocean.com/referral-program/
+- https://www.vultr.com/company/referral-program/
+- https://www.niagahoster.co.id/afiliasi
+- https://www.bukalapak.com/affiliate
+- https://www.tokopedia.com/discovery/by-me
 
 # Tips :
 - Pilih program yang membuat Anda tidak akan berat saat menjalankannya
