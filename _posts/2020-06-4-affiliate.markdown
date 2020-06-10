@@ -20,7 +20,6 @@ Komisi ->  bagi hasil atau imbalan yang diberikan oleh vendor kepada affiliate m
 - https://publisher.accesstrade.co.id/#/sign-up
 - https://involve.asia/publisher/
 - https://admin.optimisemedia.com/v2/ContactManagement/ContactModule/Default/External/Singapore/NewApplicationByWeb.aspx
-- 
 
 # List Vendor :
 - https://www.zalora.co.id/partner/
@@ -29,6 +28,8 @@ Komisi ->  bagi hasil atau imbalan yang diberikan oleh vendor kepada affiliate m
 - https://www.niagahoster.co.id/afiliasi
 - https://www.bukalapak.com/affiliate
 - https://www.tokopedia.com/discovery/by-me
+- https://gsuite.google.com/landing/partners/affiliate/
+- 
 
 # Tips :
 - Pilih program yang membuat Anda tidak akan berat saat menjalankannya
