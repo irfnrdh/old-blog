@@ -5,7 +5,7 @@ position: 6
 layout: page
 ---
 
-Berikut adalah beberapa toolkit standart yang biasa saya gunakan
+Berikut adalah beberapa toolkit yang biasa saya gunakan
 
 * [Colors Palette Generator](https://irfnrdh.github.io/apps/colors/)
 
