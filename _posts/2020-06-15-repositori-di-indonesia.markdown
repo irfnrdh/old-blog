@@ -17,9 +17,11 @@ Repositori institusi adalah tempat penyimpanan dan penyebarluasan informasi atau
 
 Pada Repositori kamu bisa menemukan judul, topik, bahkan skipsi, thesis, disertasi dalam bentuk digital atau softcopy yang sangat memudahkan kamu untuk membaca, menulis atau mempelajari sesuatu tanpa harus ke perpustakaan kampus tersebut.
 
-saya termasuk pengguna pasif sejak tahun 2013 sudah memantau, melakukan mengupdate dari perkembangan index yang ada pada repositori tersebut.
+saya termasuk pengguna *silent* sejak tahun 2013 sudah memantau, melakukan mengupdate dari perkembangan index yang ada pada repositori tersebut.
 
 banyak sekali ide yang bisa digali dari sana. baik itu dari pengembangan bisnis sampai dengan penerapan hal-hal yang bersifat teknis.
+
+open acces ini bisa menjadi gerbang utama sebagai bahan menambah pengetahuan kamu.
 
 ## Teknik Informatika
 
