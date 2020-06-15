@@ -1,8 +1,12 @@
 ---
 title: Logika Bermaksiat
-date: 2020-05-15 13:13:45 +01:00
+date: 2020-05-15 19:13:00 +07:00
+categories:
+- Islamic education
 layout: post
 ---
+
+Maksiat sebuah perbuatan buruk atau tercela yang perbuatan tersebut melanggar dan bertentangan perintah Allah. Maksiat yang dilakukan sangat berdampak negatif pada diri seseorang. Melakukan maksiat dapat menjauhkan diri dari pada perintah Allah. Maksiat juga dapat membuat seseorang kecanduan melakukan kemungkaran.
 
 # Logika Bermaksiat
 
