@@ -2,6 +2,10 @@
 title: irfnrdh
 timezone: Europe/London
 collections:
+  posts:
+    title: Daily Notes
+    output: true
+    description: an abstract journey
   pieces:
     title: Pieces
     output: true
@@ -9,10 +13,6 @@ collections:
   uploads:
     title: Uploads
     output: true
-  posts:
-    title: irfnrdh
-    output: true
-    description: an abstract journey
 defaults:
 - scope:
     path: ''
