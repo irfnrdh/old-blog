@@ -9,7 +9,7 @@ tags:
 layout: post
 ---
 
-Editor adalah hal yang penting dalam menulis secara digital. Salah satu format digital yang paling sering digunakan di github adalah markdown. Ia tercipta dari ribetnya membuat buka dan tutup kurung di HTML. Bagi saya markdown ini sangat membantu sekali bagi seorang developer yang ingin menulis di blog statisnya.
+Editor adalah hal yang penting dalam menulis secara digital. Salah satu format digital yang paling sering digunakan di github adalah markdown. Ia tercipta dari ribetnya membuat buka dan tutup kurung di HTML. Bagi saya markdown ini sangat membantu sekali bagi seorang developer yang ingin menulis di blog statisnya. Hal ini juga membuat banyak blog statis akhirnya menggunakan markdown.
 
 <!-- more -->
 
