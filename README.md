@@ -6,5 +6,5 @@ Bebas semaumu lihat source code :v
 
 ### Stack
 - Jekyll
-- [Siteleaf](https://www.siteleaf.com/?via=irfnrdh) for CMS (150620)
+- [Siteleaf](https://www.siteleaf.com/?via=github) for CMS (150620)
 
