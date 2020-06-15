@@ -8,3 +8,5 @@ Bebas semaumu lihat source code :v
 - Jekyll
 - [Siteleaf](https://www.siteleaf.com/?via=github) for CMS (150620)
 
+### Merchandise
+- [Thredless](https://irfnrdh.threadless.com/)
