@@ -10,7 +10,7 @@ Maksiat sebuah perbuatan buruk atau tercela yang perbuatan tersebut melanggar da
 
 <!-- more -->
 
-# Logika Bermaksiat
+# Sebuah Logika Bermaksiat
 
 Saya mendengar kisah ini dibawakan oleh seorang khatib pada sholat jumat hari ini dan diambil dari kisahnya Ibrahim ibn Adham ketika ia mengajarkan logika berfikir kepada seseorang ketika melakukan dosa.
 
