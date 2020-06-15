@@ -1,5 +1,5 @@
 ---
-title: "/toolkit"
+title: ToolKit
 permalink: "/toolkit"
 position: 6
 layout: page
@@ -7,19 +7,28 @@ layout: page
 
 # Toolkit
 
-<a href="https://irfnrdh.github.io/apps/colors/" class="list-group-item list-group-item-action">Colors Palette Generator</a>
-<a href="https://irfnrdh.github.io/apps/kalkulator/" class="list-group-item list-group-item-action">Kalkulator Desainer</a>
-<a href="https://irfnrdh.github.io/apps/docwriter/" class="list-group-item list-group-item-action">Javascript Docwriter Generator</a>
-<a href="https://irfnrdh.github.io/apps/unescape/" class="list-group-item list-group-item-action">Javascript Unescape Encode & Decode</a>
-<a href="https://irfnrdh.github.io/apps/clickjacking/" class="list-group-item list-group-item-action">Clickjacking Framing Tester</a>
-<a href="https://irfnrdh.github.io/apps/base64/" class="list-group-item list-group-item-action">Base64 Encode & Decode</a>
-<a href="https://irfnrdh.github.io/apps/webcam/" class="list-group-item list-group-item-action">Webcam Tester</a>
-<a href="https://irfnrdh.github.io/apps/whatismyip/" class="list-group-item list-group-item-action">What is my IP</a>
-<a href="https://irfnrdh.github.io/apps/browser/" class="list-group-item list-group-item-action">What is my Browser</a>
-<a href="https://irfnrdh.github.io/apps/wordcounter/" class="list-group-item list-group-item-action">Words Counter</a>
-        
-<!--<a href="https://irfnrdh.github.io/apps/wa-link-generator/" class="list-group-item list-group-item-action">Whatsapp Link Generator</a>-->
-<!--<a href="https://irfnrdh.github.io/apps/wa/" class="list-group-item list-group-item-action">Whatsapp Link Generator (banyak nomor)</a>-->
-<!--<a href="http://apps.irfnrdh.com/sholat/" class="list-group-item list-group-item-action">Jadwal Sholat (Medan)</a>-->
-   
-  
+* [Colors Palette Generator](https://irfnrdh.github.io/apps/colors/)
+
+* [Kalkulator Desainer](https://irfnrdh.github.io/apps/kalkulator/)
+
+* [Javascript Docwriter Generator](https://irfnrdh.github.io/apps/docwriter/)
+
+* [Javascript Unescape Encode & Decode](https://irfnrdh.github.io/apps/unescape/)
+
+* [Clickjacking Framing Tester](https://irfnrdh.github.io/apps/clickjacking/)
+
+* [Base64 Encode & Decode](https://irfnrdh.github.io/apps/base64/)
+
+* [Webcam Tester](https://irfnrdh.github.io/apps/webcam/)
+
+* [What is my IP](https://irfnrdh.github.io/apps/whatismyip/)
+
+* [What is my Browser](https://irfnrdh.github.io/apps/browser/)
+
+* [Words Counter](https://irfnrdh.github.io/apps/wordcounter/)
+
+* [Words Counter](https://irfnrdh.github.io/apps/wordcounter/)
+
+* [Whatsapp Link Generator](https://irfnrdh.github.io/apps/wa-link-generator/)
+* [Whatsapp Link Generator (banyak nomor)](https://irfnrdh.github.io/apps/wa/)
+* [Jadwal Sholat (Medan)](http://apps.irfnrdh.com/sholat/)
