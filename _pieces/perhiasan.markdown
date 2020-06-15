@@ -1,8 +1,9 @@
 ---
 title: Perhiasan
-date: 2020-06-15 08:25:00 +01:00
+date: 2020-06-15 14:25:00 +07:00
 categories:
 - Sajak
+layout: post
 ---
 
 Persiahan, kamu adalah barang berhargaku
