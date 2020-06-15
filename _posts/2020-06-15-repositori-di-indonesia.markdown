@@ -21,7 +21,7 @@ saya termasuk pengguna *silent* sejak tahun 2013 sudah memantau, melakukan mengu
 
 banyak sekali ide yang bisa digali dari sana. baik itu dari pengembangan bisnis sampai dengan penerapan hal-hal yang bersifat teknis.
 
-open acces ini bisa menjadi gerbang utama sebagai bahan menambah pengetahuan kamu.
+[open acces](https://www.isipii.org/sites/default/files/JokoSantoso_IGF2016_Repositori-warisan-intelektual-bangsa.pdf) ini bisa menjadi gerbang utama sebagai bahan menambah pengetahuan kamu.
 
 ## Teknik Informatika
 
