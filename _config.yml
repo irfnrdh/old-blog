@@ -18,7 +18,8 @@ footer: 'follow me on <a href="https://twitter.com/irfnrdh">tw</a>, <a href="htt
 # Build settings
 markdown: kramdown
 
-remote_theme: ozgrozer/dasper
+remote_theme: daviddarnes/garth
+# ozgrozer/dasper
 #b2a3e8/jekyll-theme-console
 #piharpi/jekyll-klise
 #kronik3r/daktilo
