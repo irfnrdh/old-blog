@@ -5,7 +5,7 @@ collections:
   posts:
     title: Daily Notes
     output: true
-    description: an abstract journey
+    description: an abstract journey, learn to be better.
   pieces:
     title: Pieces
     output: true
