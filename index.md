@@ -1,6 +1,7 @@
 ---
 title: DailyNotes
 permalink: "/"
+position: 0
 layout: home
 ---
 

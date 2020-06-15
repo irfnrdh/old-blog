@@ -1,6 +1,7 @@
 ---
 title: "/playlist"
 permalink: "/playlist"
+position: 5
 layout: page
 ---
 
