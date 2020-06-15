@@ -5,7 +5,7 @@ position: 3
 layout: page
 ---
 
-Berikut adalah beberapa toolkit yang biasa saya gunakan
+Berikut adalah beberapa toolkit yang biasa saya gunakan. Kamu bisa request toolkit lainnya, langsung japri aja [dimari](mailto:irfnrdh@gmail.com). 
 
 * [Colors Palette Generator](https://irfnrdh.github.io/apps/colors/)
 
