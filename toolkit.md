@@ -5,7 +5,7 @@ position: 6
 layout: page
 ---
 
-# Toolkit
+Berikut adalah beberapa toolkit standart yang biasa saya gunakan
 
 * [Colors Palette Generator](https://irfnrdh.github.io/apps/colors/)
 
@@ -30,5 +30,7 @@ layout: page
 * [Words Counter](https://irfnrdh.github.io/apps/wordcounter/)
 
 * [Whatsapp Link Generator](https://irfnrdh.github.io/apps/wa-link-generator/)
+
 * [Whatsapp Link Generator (banyak nomor)](https://irfnrdh.github.io/apps/wa/)
+
 * [Jadwal Sholat (Medan)](http://apps.irfnrdh.com/sholat/)
