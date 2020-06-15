@@ -9,4 +9,4 @@ Bebas semaumu lihat source code :v
 - [Siteleaf](https://www.siteleaf.com/?via=github) for CMS (150620)
 
 ### Merchandise
-- [Thredless](https://irfnrdh.threadless.com/) Tshirt Design Collections
+- [Thredless](https://irfnrdh.threadless.com/) Tshirt and Art stuff Collections
