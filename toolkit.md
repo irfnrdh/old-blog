@@ -33,4 +33,4 @@ Berikut adalah beberapa toolkit yang biasa saya gunakan
 
 * [Whatsapp Link Generator (banyak nomor)](https://irfnrdh.github.io/apps/wa/)
 
-* [Jadwal Sholat (Medan)](http://apps.irfnrdh.com/sholat/)
+* [Jadwal Sholat (Medan)](https://irfnrdh.github.io/apps/sholat/)
