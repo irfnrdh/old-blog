@@ -1,7 +1,7 @@
 ---
-title: /playlist
+title: "/playlist"
+permalink: "/playlist"
 layout: page
-permalink: /playlist
 ---
 
 Saya suka banget touring musik. Menjelajahi musik diseluruh dunia di semua genre.

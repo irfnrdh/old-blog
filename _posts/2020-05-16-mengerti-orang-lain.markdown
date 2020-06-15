@@ -1,8 +1,7 @@
 ---
+title: Mereka harus dimengerti
+date: 2020-05-16 01:13:45 +01:00
 layout: post
-title:  "Mereka harus dimengerti"
-date:   2020-05-16 1:13:45 +0100
-categories:
 ---
 
 # Manusia itu butuh banget perhatian

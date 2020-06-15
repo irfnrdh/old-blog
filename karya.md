@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Pieces
-permalink: /pieces
+permalink: "/pieces"
+layout: page
 ---
 
 # Inilah aku,  

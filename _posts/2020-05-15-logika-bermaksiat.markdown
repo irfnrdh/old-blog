@@ -1,8 +1,7 @@
 ---
+title: Logika Bermaksiat
+date: 2020-05-15 13:13:45 +01:00
 layout: post
-title:  "Logika Bermaksiat"
-date:   2020-05-15 13:13:45 +0100
-categories:
 ---
 
 # Logika Bermaksiat

@@ -1,7 +1,7 @@
 ---
-title: /toolkit
+title: "/toolkit"
+permalink: "/toolkit"
 layout: page
-permalink: /toolkit
 ---
 
 # Toolkit

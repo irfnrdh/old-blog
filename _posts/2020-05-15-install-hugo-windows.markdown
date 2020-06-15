@@ -1,8 +1,7 @@
 ---
+title: Install Hugo di windows
+date: 2020-05-15 22:13:45 +01:00
 layout: post
-title:  "Install Hugo di windows"
-date:   2020-05-15 22:13:45 +0100
-categories:
 ---
 
 # Akhirnya bisa coba kembali Hugo

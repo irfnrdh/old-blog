@@ -1,8 +1,7 @@
 ---
+title: Citypop
+date: 2020-05-18 21:13:45 +01:00
 layout: post
-title:  "Citypop"
-date:   2020-05-18 21:13:45 +0100
-categories:
 ---
 
 # City pop (シティーポップ, shitī poppu) 

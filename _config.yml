@@ -1,4 +1,25 @@
-# 1. Files excluded from Jekyll builds
+---
+title: irfnrdh
+timezone: Europe/London
+collections:
+  uploads:
+    title: Uploads
+    output: true
+  posts:
+    title: irfnrdh
+    output: true
+    description: an abstract journey
+defaults:
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
 exclude:
 - README.md
 - CODE_OF_CONDUCT.md
@@ -9,72 +30,29 @@ exclude:
 - Gemfile
 - Gemfile.lock
 - garth-jekyll-theme.gemspec
-
-# 2. Installed Gems
 plugins:
 - jekyll-paginate
 - jekyll-spaceship
-
-# 3. Gem settings
-paginate: 2 # jekyll-paginate > items per page
-paginate_path: page:num # jekyll-paginate > blog page
-
-# 4. Jekyll settings
+paginate: 2
+paginate_path: page:num
 sass:
-  style: compressed # Style compression
-permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
-excerpt_separator: <!-- more --> # Marks end of excerpt in posts
-timezone: Europe/London # Timezone for blog posts and alike
-
-# 5. Collections
-collections:
-  posts:
-    title:  irfnrdh # Needed for Siteleaf
-    output: true
-    description: "an abstract journey" # The post list page content
-
-# 6. Jekyll collections settings
-defaults:
-  -
-    scope:
-      path: ""
-      type: pages
-    values:
-      layout: page # Default layout
-  -
-    scope:
-      path: ""
-      type: posts
-    values:
-      layout: post # Default layout
-
-# 7. Site settings
-encoding: utf-8 # Make sure the encoding is right
-title: 'irfnrdh'
-description: "terserah kamu aja deh :v"
+  style: compressed
+permalink: pretty
+excerpt_separator: "<!-- more -->"
+encoding: utf-8
+description: terserah kamu aja deh :v
 baseurl: "/"
-url: "https://irfnrdh.github.io"
-logo: "/assets/logo.svg" # Site logo
+url: https://irfnrdh.github.io
+logo: "/assets/logo.svg"
 lang: en-GB
-
-#. Theme
 remote_theme: daviddarnes/garth
-# ozgrozer/dasper
-#b2a3e8/jekyll-theme-console
-#piharpi/jekyll-klise
-#kronik3r/daktilo
-#sharu725/vyaasa
-
-# Build settings
 markdown: kramdown
-
-footer: 'follow me on <a href="https://twitter.com/irfnrdh">tw</a>, <a href="https://intsgram.com/irfnrdh">ig</a>, <a href="https://www.youtube.com/channel/UCUsEYpI-p0vXLVF2AIEMLIQ?sub_confirmation=1">yt</a>'
-
+footer: follow me on <a href="https://twitter.com/irfnrdh">tw</a>, <a href="https://intsgram.com/irfnrdh">ig</a>,
+  <a href="https://www.youtube.com/channel/UCUsEYpI-p0vXLVF2AIEMLIQ?sub_confirmation=1">yt</a>
 header_pages:
-  - index.md
-  - irfnrdh.md
-  - about.md
-  - contact.md
-  - toolkit.md
-  - playlist.md
-
+- index.md
+- irfnrdh.md
+- about.md
+- contact.md
+- toolkit.md
+- playlist.md

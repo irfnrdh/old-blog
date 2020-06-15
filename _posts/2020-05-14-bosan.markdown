@@ -1,8 +1,9 @@
 ---
+title: Bosan!
+date: 2020-05-14 16:13:45 +01:00
+categories:
+- diary
 layout: post
-title:  "Bosan!"
-date:   2020-05-14 16:13:45 +0100
-categories: diary
 ---
 
 Kondisi jemu sering muncul ketika sudah mencoba mengexplore semuanya. Menyelam ke dasar dan mendapatkan sebuah arti yang baru. Cara pandang ini yang akhirnya dituangkan dalam tulian harian ini. Bosan bukan berarti tidak suka lagi, tetapi ransangan dopamin dalam menggugah rasa penasaran belum timbul. Bisa jadi disebabkan mentok pada ruang hampa yang belum memiliki celah baru.

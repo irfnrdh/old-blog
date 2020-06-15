@@ -1,8 +1,7 @@
 ---
+title: Dibalik editor
+date: 2020-05-15 11:13:45 +01:00
 layout: post
-title:  "Dibalik editor"
-date:   2020-05-15 11:13:45 +0100
-categories:
 ---
 
 # Dibalik Editor

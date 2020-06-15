@@ -1,8 +1,9 @@
 ---
+title: Investasi
+date: 2020-05-29 20:13:45 +01:00
+categories:
+- Mindset
 layout: post
-title:  "Investasi"
-date:   2020-05-29 20:13:45 +0100
-categories: Mindset
 ---
 
 Investasi adalah sebuah kata pasaran yang dapat menarik perhatian banyak orang.

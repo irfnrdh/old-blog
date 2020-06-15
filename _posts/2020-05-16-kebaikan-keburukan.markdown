@@ -1,8 +1,7 @@
 ---
+title: Antara Kebaikan dan Keburukan
+date: 2020-05-16 17:17:45 +01:00
 layout: post
-title:  "Antara Kebaikan dan Keburukan"
-date:   2020-05-16 17:17:45 +0100
-categories:
 ---
 
 # Antara Kebaikan dan Keburukan

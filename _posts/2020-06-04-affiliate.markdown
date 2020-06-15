@@ -1,8 +1,7 @@
 ---
+title: Affiliate Marketer
+date: 2020-06-04 15:13:45 +01:00
 layout: post
-title:  "Affiliate Marketer"
-date:   2020-06-04 15:13:45 +0100
-categories:
 ---
 
 ini adalah sebuah catatan. dan catatan ini bisa anda jadikan sebagai acuan untuk mendapatkan cuan di Internet.

@@ -1,8 +1,7 @@
 ---
+title: Uang bukanlah segalanya
+date: 2020-06-15 12:13:45 +01:00
 layout: post
-title:  "Uang bukanlah segalanya"
-date:   2020-06-15 12:13:45 +0100
-categories:
 ---
 
 # Uang hanya sebuah alat, bukan tujuan

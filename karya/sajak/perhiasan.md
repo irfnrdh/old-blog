@@ -1,6 +1,6 @@
 ---
 title: Perhiasan
-permalink: /perhiasan
+permalink: "/perhiasan"
 ---
 
 Persiahan, kamu adalah barang berhargaku

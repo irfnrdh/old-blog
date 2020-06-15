@@ -1,8 +1,7 @@
 ---
+title: Teknologi Manajemen Konten
+date: 2020-05-16 17:13:45 +01:00
 layout: post
-title:  "Teknologi Manajemen Konten"
-date:   2020-05-16 17:13:45 +0100
-categories:
 ---
 
 # Content Management System

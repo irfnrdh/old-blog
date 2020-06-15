@@ -1,8 +1,9 @@
 ---
+title: Awal yang baru
+date: 2020-05-15 01:01:45 +01:00
+categories:
+- review
 layout: post
-title:  "Awal yang baru"
-date:   2020-05-15 01:01:45 +0100
-categories: review
 ---
 
 Cerita ketika bangun komputer ditahun 2020. Ada beberapa teknologi baru yang sangat menunjang kinerja. Percuma jika kamu punya segalanya, tapi tidak bisa menggunakannya dengan baik. Semua bisa jadi sia-sia.

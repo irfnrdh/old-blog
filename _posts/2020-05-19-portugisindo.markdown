@@ -1,8 +1,7 @@
 ---
+title: Portugis-Indo
+date: 2020-05-19 15:13:45 +01:00
 layout: post
-title:  "Portugis-Indo"
-date:   2020-05-19 15:13:45 +0100
-categories:
 ---
 
 # Portugis Indo

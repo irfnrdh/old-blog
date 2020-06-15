@@ -1,8 +1,7 @@
 ---
+title: Autodidacticism
+date: 2020-05-18 14:13:45 +01:00
 layout: post
-title:  "Autodidacticism"
-date:   2020-05-18 14:13:45 +0100
-categories:
 ---
 
 # Oh, I’m self taught.

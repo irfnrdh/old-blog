@@ -1,7 +1,7 @@
 ---
-title: /irfnrdh
+title: "/irfnrdh"
+permalink: "/irfnrdh"
 layout: page
-permalink: /irfnrdh
 ---
 
 # siapa sih irfnrdh?
