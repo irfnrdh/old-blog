@@ -47,7 +47,7 @@ encoding: utf-8
 description: terserah kamu aja deh :v
 baseurl: "/"
 url: https://irfnrdh.github.io
-logo: "/assets/logo.svg"
+logo: "/uploads/avatar.jpg"
 lang: en-GB
 remote_theme: daviddarnes/garth
 markdown: kramdown
