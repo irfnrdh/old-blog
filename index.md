@@ -1,9 +1,9 @@
 ---
 title: DailyNotes
-permalink: "/"
-position: 0
 layout: home
+collectionpage: posts
 ---
+
 
 ![Image](https://raw.githubusercontent.com/irfnrdh/irfnrdh.github.io/master/img/imgg.jpg)
 
