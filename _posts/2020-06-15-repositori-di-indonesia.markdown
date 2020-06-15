@@ -1,5 +1,5 @@
 ---
-title: Repositori di Indonesia
+title: Repositori Institusi di Indonesia
 date: 2020-06-15 17:24:00 +07:00
 categories:
 - resources
@@ -12,6 +12,8 @@ Repositori adalah tempat awal menemukan ide dan literasi terkini apa yang sudah 
 <!-- more -->
 
 # Repositori dibeberapa Universitas di Indonesia
+
+Repositori institusi adalah tempat penyimpanan dan penyebarluasan informasi atau materi yang diterbitkan oleh institusi induknya. Perkembangan Repositori Institusi didukung bersamaan dengan perkembangan teknologi informasi yang juga meningkatkan komunikasi ilmiah di kalangan peneliti.
 
 Pada Repositori kamu bisa menemukan judul, topik, bahkan skipsi, thesis, disertasi dalam bentuk digital atau softcopy yang sangat memudahkan kamu untuk membaca, menulis atau mempelajari sesuatu tanpa harus ke perpustakaan kampus tersebut.
 
