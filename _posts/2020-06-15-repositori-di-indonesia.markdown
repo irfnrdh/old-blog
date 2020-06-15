@@ -11,7 +11,7 @@ Repositori adalah tempat awal menemukan ide dan literasi terkini apa yang sudah 
 
 <!-- more -->
 
-# Repositori dibeberapa Universitas di Indonesia
+# [Repositori](http://repository.usu.ac.id/bitstream/handle/123456789/39750/Repositori%20Institusi%20Perguruan%20Tinggi.pdf?sequence=1) Internal di Perguruan Tinggi
 
 Repositori institusi adalah tempat penyimpanan dan penyebarluasan informasi atau materi yang diterbitkan oleh institusi induknya. Perkembangan Repositori Institusi didukung bersamaan dengan perkembangan teknologi informasi yang juga meningkatkan komunikasi ilmiah di kalangan peneliti.
 
