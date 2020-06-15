@@ -1,7 +1,7 @@
 ---
 title: Pieces
 permalink: "/pieces"
-position: 2
+position: 1
 layout: page
 ---
 
