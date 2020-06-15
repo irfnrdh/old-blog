@@ -1,7 +1,7 @@
 ---
 layout: page
-title: /karya
-permalink: /karya/
+title: Pieces
+permalink: /pieces
 ---
 
 # Inilah aku,  
