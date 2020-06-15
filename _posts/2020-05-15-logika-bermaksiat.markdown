@@ -8,6 +8,8 @@ layout: post
 
 Maksiat sebuah perbuatan buruk atau tercela yang perbuatan tersebut melanggar dan bertentangan perintah Allah. Maksiat yang dilakukan sangat berdampak negatif pada diri seseorang. Melakukan maksiat dapat menjauhkan diri dari pada perintah Allah. Maksiat juga dapat membuat seseorang kecanduan melakukan kemungkaran.
 
+<!-- more -->
+
 # Logika Bermaksiat
 
 Saya mendengar kisah ini dibawakan oleh seorang khatib pada sholat jumat hari ini dan diambil dari kisahnya Ibrahim ibn Adham ketika ia mengajarkan logika berfikir kepada seseorang ketika melakukan dosa.
