@@ -30,3 +30,6 @@ banyak sekali ide yang bisa digali dari sana. baik itu dari pengembangan bisnis 
 * [Repositori USU Baru - Semua](http://repositori.usu.ac.id/handle/123456789/114)
 
 * [Repositori USU Lama - Semua](http://repository.usu.ac.id/handle/123456789/38257)
+
+## Desain Komunikasi Visual
+* [Repositori Mercu Buasa](https://repository.mercubuana.ac.id/view/divisions/423/)
