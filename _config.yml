@@ -1,7 +1,74 @@
+# 1. Files excluded from Jekyll builds
+exclude:
+- README.md
+- CODE_OF_CONDUCT.md
+- CONTRIBUTING.md
+- screenshot.png
+- LICENSE
+- CNAME
+- Gemfile
+- Gemfile.lock
+- garth-jekyll-theme.gemspec
+
+# 2. Installed Gems
+plugins:
+- jekyll-paginate
+- jekyll-spaceship
+
+# 3. Gem settings
+paginate: 2 # jekyll-paginate > items per page
+paginate_path: page:num # jekyll-paginate > blog page
+
+# 4. Jekyll settings
+sass:
+  style: compressed # Style compression
+permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
+excerpt_separator: <!-- more --> # Marks end of excerpt in posts
+timezone: Europe/London # Timezone for blog posts and alike
+
+# 5. Collections
+collections:
+  posts:
+    title: Blog # Needed for Siteleaf
+    output: true
+    description: "This is merely a demo, find out more [about Garth](about)" # The post list page content
+
+# 6. Jekyll collections settings
+defaults:
+  -
+    scope:
+      path: ""
+      type: pages
+    values:
+      layout: page # Default layout
+  -
+    scope:
+      path: ""
+      type: posts
+    values:
+      layout: post # Default layout
+
+# 7. Site settings
+encoding: utf-8 # Make sure the encoding is right
 title: 'irfnrdh'
 description: "terserah kamu aja deh :v"
 baseurl: "/"
 url: "https://irfnrdh.github.io"
+logo: "/assets/logo.svg" # Site logo
+lang: en-GB
+
+#. Theme
+remote_theme: daviddarnes/garth
+# ozgrozer/dasper
+#b2a3e8/jekyll-theme-console
+#piharpi/jekyll-klise
+#kronik3r/daktilo
+#sharu725/vyaasa
+
+# Build settings
+markdown: kramdown
+
+footer: 'follow me on <a href="https://twitter.com/irfnrdh">tw</a>, <a href="https://intsgram.com/irfnrdh">ig</a>, <a href="https://www.youtube.com/channel/UCUsEYpI-p0vXLVF2AIEMLIQ?sub_confirmation=1">yt</a>'
 
 header_pages:
   - index.md
@@ -10,24 +77,4 @@ header_pages:
   - contact.md
   - toolkit.md
   - playlist.md
-
-style: dark
-
-footer: 'follow me on <a href="https://twitter.com/irfnrdh">tw</a>, <a href="https://intsgram.com/irfnrdh">ig</a>, <a href="https://www.youtube.com/channel/UCUsEYpI-p0vXLVF2AIEMLIQ?sub_confirmation=1">yt</a>'
-
-# Build settings
-markdown: kramdown
-
-remote_theme: daviddarnes/garth
-# ozgrozer/dasper
-#b2a3e8/jekyll-theme-console
-#piharpi/jekyll-klise
-#kronik3r/daktilo
-#sharu725/vyaasa
-
-
-
-
-plugins:
-  - jekyll-spaceship
 
