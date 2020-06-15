@@ -1,17 +1,27 @@
 ---
-title: Dibalik editor
-date: 2020-05-15 11:13:45 +01:00
+title: Dibalik Markdown
+date: 2020-05-15 11:13:00 +01:00
+categories:
+- Inspiration
+tags:
+- People
+- Technology
 layout: post
 ---
 
+Editor adalah hal yang penting dalam menulis secara digital. Salah satu format digital yang paling sering digunakan di github adalah markdown. Ia tercipta dari ribetnya membuat buka dan tutup kurung di HTML. 
+
+<!--more-->
+
 # Dibalik Editor
+
 Markdown adalah salah satu markup yang ringan banget dan hampir support banyak format. Tapi kurangnya adalah khusus seperti pengganti HTML.
 
 Seorang yang membuatnya juga seorang blogger, penulis juga dan sekaligus UI desainer jadi dia kenal betul bagaimana ribetnya menulis jika gunain HTML.
 
 sudah 16 tahun berlalu, mereka si John Gruber ini kalaborasi dengan Aaron Swartz atau kamu mungkin lebih mengenalnya dengan pendiri reddit.
 
-kalau kamu juga kenal dengan istilah _generated content_ , RSS si Aaron juga mengawali ide ini dan sampai sekarang ini udah menjamur termasuk di Indonesia di awali kumparan dan kompasiana.
+kalau kamu juga kenal dengan istilah *generated content* , RSS si Aaron juga mengawali ide ini dan sampai sekarang ini udah menjamur termasuk di Indonesia di awali kumparan dan kompasiana.
 
 di Github hampir semua pakai ekstensi .md alias Markdown ini.
 
@@ -28,9 +38,9 @@ saya sendiri baru menyadari ini setelah belajar mendalami strategi branding bebe
 Marketing tanpa modal, dengan memasukkan biayanya sepenuhnya pada pengalaman orang yang menggunakannya.
 
 ## Jadii, ini pertama kali juga gunain
+
 ia pertama kali gunain stackedit.io sebagai editor untuk menulis dan asiknya bisa langsung di hubungkan baik itu ke blogger, github, gitlab, wordpress dan lainnya.
 
 tapi sayangnya ia melakukan convert otomatis ke HTML.
 
 jadi pengen nulis terussnya jadi moody.
-
