@@ -23,7 +23,7 @@ banyak sekali ide yang bisa digali dari sana. baik itu dari pengembangan bisnis 
 
 [open acces](https://www.isipii.org/sites/default/files/JokoSantoso_IGF2016_Repositori-warisan-intelektual-bangsa.pdf) ini bisa menjadi gerbang utama sebagai bahan menambah pengetahuan kamu.
 
-## Teknik Informatika
+## Teknik Informatika (Bidang saya geluti)
 
 * [Repositori USU Lama - Magister](http://repository.usu.ac.id/handle/123456789/34060)
 
@@ -31,5 +31,7 @@ banyak sekali ide yang bisa digali dari sana. baik itu dari pengembangan bisnis 
 
 * [Repositori USU Lama - Semua](http://repository.usu.ac.id/handle/123456789/38257)
 
-## Desain Komunikasi Visual
+## Desain Komunikasi Visual  (Bidang saya sukai)
 * [Repositori Mercu Buasa](https://repository.mercubuana.ac.id/view/divisions/423/)
+* [Repositori ISI Surakarta](http://repository.isi-ska.ac.id/view/subjects/AB.html)
+* [Repositori UNPAS](http://repository.unpas.ac.id/view/divisions/fiss=5Fdkv=5F2017/)
