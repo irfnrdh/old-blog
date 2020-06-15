@@ -10,3 +10,4 @@ Bebas semaumu lihat source code :v
 
 ### Merchandise
 - [Thredless](https://irfnrdh.threadless.com/) Tshirt and Art stuff Collections
+- [Gumroad](https://gumroad.com/irfnrdh) Digital 
