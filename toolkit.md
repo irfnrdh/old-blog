@@ -1,7 +1,7 @@
 ---
 title: ToolKit
 permalink: "/toolkit"
-position: 6
+position: 3
 layout: page
 ---
 
