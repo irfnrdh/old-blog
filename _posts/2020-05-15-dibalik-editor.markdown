@@ -2,7 +2,7 @@
 title: Dibalik Markdown
 date: 2020-05-15 11:13:00 +01:00
 categories:
-- Inspiration
+- inspiration
 tags:
 - People
 - Technology
