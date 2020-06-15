@@ -9,6 +9,9 @@ collections:
     title: irfnrdh
     output: true
     description: an abstract journey
+  pieces:
+    title: pieces
+    output: true
 defaults:
 - scope:
     path: ''
