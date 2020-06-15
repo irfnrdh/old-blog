@@ -1,5 +1,5 @@
 ---
-title: daily notes
+title: DailyNotes
 layout: home
 permalink: /
 ---
