@@ -1,5 +1,5 @@
 ---
-title: ertanyaan yang dalam
+title: Pertanyaan yang dalam
 date: 2020-06-15 16:23:00 +07:00
 ---
 
