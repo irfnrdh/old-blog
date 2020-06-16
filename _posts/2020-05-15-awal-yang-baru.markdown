@@ -1,6 +1,6 @@
 ---
 title: Awal yang baru
-date: 2020-05-15 01:01:45 +01:00
+date: 2020-05-15 07:01:45 +07:00
 categories:
 - review
 layout: post
