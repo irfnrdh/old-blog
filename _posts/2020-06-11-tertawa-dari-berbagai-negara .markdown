@@ -4,6 +4,10 @@ date: 2020-06-11 13:13:45 +01:00
 layout: post
 ---
 
+Cara merepresentasikan ketawa bisa saja berbeda. 
+
+<!-- more -->
+
 Pengetahuan itu penting agar bisa membuat kita tahu apa yang harus kita lakukan. Salah satunya adalah tertawa. Ini adalah respon yang alamiah ketika melihat sesuatu yang tidak asing namun sedikit aneh. Beberapa orang tertawa bisa dikarenakan sedih ataupun senang. Ada juga yang bilang tertawa adalah bentuk kegembiraan. saya sendiri menganggap ketawa adalah sebuah ekrepsi yang terkadang kita butuhkan untuk merileksasikan pikiran. disisilain beberapa orang yang mengidap "Pseudobulbar" seperti joker malah akan tertawa dengan sendirinya bukan karena proses diatas tapi karena sesuatu yang sudah mulai rusak pada bagian otak dan syaraf.
 
 Proses terjadinya tertawa disebabkan oleh "lepasnya dopamin" dan tentu ini akan membuat kita bisa tertawa. 

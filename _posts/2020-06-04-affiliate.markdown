@@ -4,6 +4,10 @@ date: 2020-06-04 15:13:45 +01:00
 layout: post
 ---
 
+Siapa sih yang tak ingin punya penghasilan tambahan? pasti kamu sedang mencarinya. apalagi dikala masa-masa yang sulit ini. Menjualkan barang orang lain adalah salah satu solusinya untuk mendatangkan penghasilan tambahan. Dengan cara ini kamu bisa mendapatkan komisi dari setiap penjualannya. Sayangnya tidak semua orang tahu dengan teknik bagaimana cara melakukannya dan harus mendaftarkan kemana agar bisa ikut bergabung. 
+
+<!-- more -->
+
 ini adalah sebuah catatan. dan catatan ini bisa anda jadikan sebagai acuan untuk mendapatkan cuan di Internet.
 
 Saya mencari di google dengan keyword : "pengalaman affiliate marketer".
