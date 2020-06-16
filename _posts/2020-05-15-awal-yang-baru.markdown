@@ -6,7 +6,7 @@ categories:
 layout: post
 ---
 
-Cerita ketika bangun komputer ditahun 2020. Ada beberapa teknologi baru yang sangat menunjang kinerja. Percuma jika kamu punya segalanya, tapi tidak bisa menggunakannya dengan baik. Semua bisa jadi sia-sia.
+Cerita ketika bangun komputer ditahun 2020. Ada beberapa teknologi baru yang sangat menunjang kinerja. Percuma jika kamu punya segalanya, tapi tidak bisa menggunakannya dengan baik. Semua bisa jadi sia-sia. Maka dari itu saya akan berbagi pengalaman saya dalam membangun PC pada tahun ini. Karena butuh riset pasar juga untuk budget yang minim dengan performa yang bisa diandalkan.
 
 <!-- more -->
 
