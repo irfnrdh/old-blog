@@ -1,6 +1,6 @@
 ---
 title: Antara Kebaikan dan Keburukan
-date: 2020-05-16 17:17:45 +01:00
+date: 2020-05-16 23:17:45 +07:00
 layout: post
 ---
 

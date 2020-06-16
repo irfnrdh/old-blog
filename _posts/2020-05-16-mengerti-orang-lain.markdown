@@ -1,6 +1,6 @@
 ---
 title: Mereka harus dimengerti
-date: 2020-05-16 01:13:45 +01:00
+date: 2020-05-16 07:13:45 +07:00
 layout: post
 ---
 
