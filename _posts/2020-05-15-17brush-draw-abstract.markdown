@@ -1,6 +1,6 @@
 ---
 title: 17 Brush Abstract
-date: 2020-05-15 14:13:45 +01:00
+date: 2020-05-15 20:13:45 +07:00
 categories:
 - videos
 layout: post
