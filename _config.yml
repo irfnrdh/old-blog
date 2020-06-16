@@ -9,7 +9,7 @@ collections:
   pieces:
     title: Pieces
     output: true
-    permalink: /:collection/:name
+    permalink: "/:collection/:name"
   uploads:
     title: Uploads
     output: true
@@ -41,7 +41,7 @@ paginate: 2
 paginate_path: page:num
 sass:
   style: compressed
-permalink: /:categories/:title
+permalink: "/:categories/:title"
 excerpt_separator: "<!-- more -->"
 encoding: utf-8
 description: terserah kamu aja deh :v
