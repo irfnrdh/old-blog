@@ -41,7 +41,11 @@ paginate: 2
 paginate_path: page:num
 sass:
   style: compressed
+<<<<<<< HEAD
 permalink: /:categories/:title
+=======
+permalink: "/:categories/:title:output_ext"
+>>>>>>> 50453d5873f59049a5bb0fab4d81cc3a4dd9c944
 excerpt_separator: "<!-- more -->"
 encoding: utf-8
 description: terserah kamu aja deh :v
