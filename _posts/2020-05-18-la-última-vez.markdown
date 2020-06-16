@@ -6,6 +6,10 @@ categories:
 layout: post
 ---
 
+artinya itu waktu terakhir. ketika cinta telah datang maka rasa takut kehilangan akan timbul dan rasanya ingin terus selalu bersama. Kita pasti akan merasakan cinta dan kehilangan. Lantas tidak semua orang bisa mengendalikan emosinya terhadap rasa itu sendiri. Tidak jarang mereka bisa menjadi gila dan ini bukan hanya sekedar cerita tapi sudah menjadi hal yang lumrah dari hidup ini.
+
+<!-- more -->
+
 # La última vez
 
 Besame,
