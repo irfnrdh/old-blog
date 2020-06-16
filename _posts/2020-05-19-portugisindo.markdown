@@ -4,6 +4,10 @@ date: 2020-05-19 15:13:45 +01:00
 layout: post
 ---
 
+Indo punya kedekatan dengan Portugal. Hal ini dimulai dari pelayarannya bangsa portugis ke Indonesia dan melakukan penjajahan. Negara Lusitania ini menyumbang beberapa pembendaharaan Bahasa Indonesia. Hampir sering sekali bahasanya kita pakai dalam keseharian dan terkadang bisa saja kita tidak tahu bahwa ternyata bahasa yang bisa kita sebut itu bisa berasal dari bahasa portugis.
+
+<!-- more --> 
+
 # Portugis Indo
 
 Lumayan juga bahasa Indonesia ada beberapa berasal dari bahasa portugis, Hal ini dipengaruhi dari masa jajan dulunya.
