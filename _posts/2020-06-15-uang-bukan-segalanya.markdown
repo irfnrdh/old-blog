@@ -4,6 +4,10 @@ date: 2020-06-15 12:13:45 +01:00
 layout: post
 ---
 
+Ada seseorang yang miskin dan tidak punya apa-apa. Lalu ia ingin bahagia dan bisa punya banyak uang, rumah, mobil dan segalanya . Tapi ada orang yang telah memiliki segalanya malah masih merasakan masih juga belum bahagia hidupnya. Lantas apakah dengan memiliki segalanya kita sudah bahagia? atau malah dengan banyak yang kita miliki malah akan membuat semakin takut kehilangannya?
+
+<!-- more -->
+
 # Uang hanya sebuah alat, bukan tujuan
 
 Uang memang hanyalah sebuah alat dan bukan sebuah tujuan. Itu salah satu titipan yang buat kamu mudah untuk berbuat lebih.
