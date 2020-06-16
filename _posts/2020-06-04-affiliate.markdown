@@ -1,6 +1,6 @@
 ---
 title: Affiliate Marketer
-date: 2020-06-04 15:13:45 +01:00
+date: 2020-06-04 21:13:45 +07:00
 layout: post
 ---
 

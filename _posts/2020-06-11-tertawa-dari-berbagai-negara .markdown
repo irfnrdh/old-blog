@@ -1,6 +1,6 @@
 ---
 title: 'Tertawa dari berbegai negara '
-date: 2020-06-11 13:13:45 +01:00
+date: 2020-06-11 19:13:45 +07:00
 layout: post
 ---
 
