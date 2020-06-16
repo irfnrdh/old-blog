@@ -6,6 +6,10 @@ categories:
 layout: post
 ---
 
+Investasi bisa dibilang pengusaha level lima. Karena seorang pembisnis yang sudah memiliki banyak usaha maka akan melakukan investasi. Tapi sayang banyak pun yang kita investasikan pasti akan selalu rugi walaupun untungnya ada. Tapi ada beberapa hal yang harus kita ketahui sebagai dasar investasi yang menjanjikan bahkan lebih menjanjikan dari iklan investasi. Kamu wajib tahu.
+
+<!-- more -->
+
 Investasi adalah sebuah kata pasaran yang dapat menarik perhatian banyak orang.
 
 # Investasi Takkan Pernah Rugi & Terus Menghasilkan
