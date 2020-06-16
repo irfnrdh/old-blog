@@ -1,6 +1,6 @@
 ---
 title: Uang bukanlah segalanya
-date: 2020-06-15 12:13:45 +01:00
+date: 2020-06-15 18:13:45 +07:00
 layout: post
 ---
 
