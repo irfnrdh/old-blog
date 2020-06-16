@@ -1,6 +1,6 @@
 ---
 title: Investasi
-date: 2020-05-29 20:13:45 +01:00
+date: 2020-05-30 02:13:45 +07:00
 categories:
 - Mindset
 layout: post
