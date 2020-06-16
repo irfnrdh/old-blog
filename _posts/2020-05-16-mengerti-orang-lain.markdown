@@ -4,6 +4,10 @@ date: 2020-05-16 01:13:45 +01:00
 layout: post
 ---
 
+Manusia itu punya hati dan pikiran. Mereka sedikit sensitif terhadap orang lain kepada diri mereka. Contohnya saja dalam hal "dimengerti". Kita harus benar-benar mengetahui karakternya agar tahu bagaimana cara mengertikannya. Sebenarnya ini terlihat mudah namun tak semudah yang saya tulis. dimengerti itu berarti kitanya harus mengikuti kemauannya. Lantas bagaimanakah bentuk pasif dari mengerti itu
+
+<!-- more -->
+
 # Manusia itu butuh banget perhatian
 
 maka dari itu kita harus perlu mengenal betul tipe-tipe dari manusia. 

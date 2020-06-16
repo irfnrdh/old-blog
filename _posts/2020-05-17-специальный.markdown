@@ -4,6 +4,10 @@ date: 2020-05-17 22:13:45 +01:00
 layout: post
 ---
 
+Spesial
+
+<!-- more -->
+
 # Something About Us
 
 It might not be the right time
@@ -22,4 +26,5 @@ I want you more than anything in my life
 I'll miss you more than anyone in my life
 I love you more than anyone in my life
 <br/>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2CCNswShJRc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

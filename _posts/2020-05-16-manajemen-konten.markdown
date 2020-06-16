@@ -4,6 +4,10 @@ date: 2020-05-16 17:13:45 +01:00
 layout: post
 ---
 
+Manajemen konten menjadi hari-hariannya seorang web master atau pengelola web atau seorang content writer yang berfokus pada seo. Banyak sekali website yang dibangun dengan CMS yang populer. Salah satunya adalah wordpress yang begitu terkenal di pengguna web di Internet. Saya akan melakukan list dari banyaknya CMS yang ada di dunia Internet ini. dan akan dikatagorikan dibeberapa katogori terbaik berdasarkan review saya.
+
+<!-- more -->
+
 # Content Management System
 
 CMS adalah hal yang menarik bagi saya. karena CMS menyapa saya pada saat pertama sekali saya belajar ngoding di masa sekolah.

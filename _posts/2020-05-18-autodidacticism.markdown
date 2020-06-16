@@ -4,6 +4,10 @@ date: 2020-05-18 14:13:45 +01:00
 layout: post
 ---
 
+Ruang belajar sendiri mengenal banyak hal secara mandiri tanpa disuruh, tanpa keterpaksaan dan melakukannya dengan penuh semangat ini adalah bentuk dari seorang pembelajar. Otodidak adalah salah satu teknik belajar yang melakukannya dengan sendiri atau belajar pasif dari orang lain.
+
+<!-- more -->
+
 # Oh, I’m self taught.
 
 Dari kecil saya sangat suka belajar dengan cara melihat, mendengar lalu melakukan. Sama seperti learning by doing.
