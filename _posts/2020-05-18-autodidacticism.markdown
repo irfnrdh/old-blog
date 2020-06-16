@@ -1,6 +1,6 @@
 ---
 title: Autodidacticism
-date: 2020-05-18 14:13:45 +01:00
+date: 2020-05-18 20:13:45 +07:00
 layout: post
 ---
 

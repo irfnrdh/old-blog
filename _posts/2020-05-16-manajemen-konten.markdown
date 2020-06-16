@@ -1,6 +1,6 @@
 ---
 title: Teknologi Manajemen Konten
-date: 2020-05-16 17:13:45 +01:00
+date: 2020-05-16 23:13:45 +07:00
 layout: post
 ---
 
