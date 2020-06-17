@@ -2,7 +2,7 @@
 title: The demo video contains static text
 date: 2020-06-17 15:07:00 +07:00
 categories:
-- spark ar
+- SparkAR
 tags:
 - problem
 ---
