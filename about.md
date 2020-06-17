@@ -12,7 +12,7 @@ penyebutan kata "irfnrdh" adalah "**Irf**an**n**u**r** **D**ia**h**".
 
 jadi jangan menyebut kata "irfnrdh" dengan "i . r . f .  n . r . d .h " karena itu akan menyulitkan kamu.
 
-dalam kaidah bahasa Indonesia ini mungkin bisa jadi hal yang salah. \
+dalam kaidah bahasa Indonesia ini mungkin bisa jadi hal yang salah.\
 Kamu, tak perlu risau. biarkan filosofi itu sendiri yang akan berbicara.
 
 ## **Siapa dia, Irfannur Diah?**
