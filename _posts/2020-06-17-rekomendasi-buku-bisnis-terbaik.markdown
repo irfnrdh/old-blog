@@ -22,10 +22,10 @@ Berikut ada beberapa buku yang rekomendasi banget untuk dibaca. saya akan melist
 
 ## Bahasa Inggris
 
-* **Explosive Growth: A Few Things I Learned While Growing To 100 Million Users - And Losing $78 Million**\
+* **Explosive Growth: A Few Things I Learned While Growing To 100 Million Users - And Losing $78 Million**  
   oleh Cliff Lerner
 
-* **Words That Change Minds: The 14 Patterns for Mastering the Language of Influence** \
+* **Words That Change Minds: The 14 Patterns for Mastering the Language of Influence**  
   oleh Shelle Rose Charvet
 
 * **Steve Jobs**\
