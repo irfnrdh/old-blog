@@ -34,3 +34,5 @@ Berikut adalah beberapa toolkit yang biasa saya gunakan. Kamu bisa request toolk
 * [Whatsapp Link Generator (banyak nomor)](https://irfnrdh.github.io/apps/wa/)
 
 * [Jadwal Sholat](https://irfnrdh.github.io/apps/sholat/)
+
+* [Panorama to Cubemap] (https://jaxry.github.io/panorama-to-cubemap/)
