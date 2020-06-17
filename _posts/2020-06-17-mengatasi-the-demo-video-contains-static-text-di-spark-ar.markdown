@@ -1,5 +1,5 @@
 ---
-title: Mengatasi The demo video contains static text di Spark AR
+title: The demo video contains static text
 date: 2020-06-17 15:07:00 +07:00
 categories:
 - spark ar
@@ -10,6 +10,8 @@ tags:
 Ini kali pertama saya coba publikasikan filter instagram dengan text dan ini juga kali pertama tidak berhasil. Hal ini disebabkan karena ada tulisan di video demo yang saya publikasikan. Saya akan membahas cara mengatasi masalah ini dengan sedikit trik dari beberapa orang yang sudah berhasil melewati masalah ini.
 
 <!-- more -->
+
+\# Mengatasi "The demo video contains static text" di Spark AR
 
 okehh.. Jadi masalahnya itu sepertinya sederhana. "Hanya ada tulisan di video demo", lantas untuk mengakalinya adalah dengan menghilangkan text yang statis tersebut dari video demonya. Pemecahan masalah ini masih berupa hipotesa saya saja karena saya akan melakukannya di malam hari setelah saya menulis ini.
 
