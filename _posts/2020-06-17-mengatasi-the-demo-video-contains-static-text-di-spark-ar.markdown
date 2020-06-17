@@ -25,6 +25,8 @@ kalau kalian baca pembahasa video itu. maka text yang diperbolehkan adalah text 
 
 textnya harus jelas, tidak menggunakan kata yang menyinggung dan lainnya.
 
+Coba kamu ikuti dulu beberapa video pembahasannya dibawah ini : 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AE2Sa2H8Cik" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uZ1Y7Dn-baU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -35,4 +37,8 @@ dan ini ada penjelasan yang bakal saya eksekusi nanti malam.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rAE6OWNpIxY?start=62" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Kelanjutan cerita ini akan saya lanjut seletah saya mencobanya. Okehhh.
+Kelanjutan cerita ini akan saya lanjut seletah saya mencobanya. 
+
+# Kesimpulannya 
+
+Okehhh. saya akan coba nanti malam ^_^
