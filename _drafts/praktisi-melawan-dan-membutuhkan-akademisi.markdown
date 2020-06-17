@@ -10,6 +10,8 @@ masalah jumpa, baru belajar = praktisi. kerja -> kuliah. mencari solusi. -> prak
 
 mendapatkan solusi dengan mensederhanakan masalah. Kalau belum menemukan masalah apakah karena belum belajar atau belum praktek?
 
+https://neurabot.io/ -> setelah belajar baru mendapatkan solusi.
+
 praktek itu penting agar kita bisa mengembangkan apa yang telah kita pelajari. lantas harus dari manakah kita memulainya? praktisi dulu atau belajar?
 
 pengalaman lapangan -> praktek ->(p)-> belajar ->(p)-> praktek ->(p)-> belajar -> n\
