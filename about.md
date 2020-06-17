@@ -5,7 +5,7 @@ position: 2
 layout: page
 ---
 
-**Apa itu irfnrdh?**
+# **Apa itu irfnrdh?**
 
 **irfnrdh** adalah sebuah nama singkat yang *diberikan oleh orang yang spesial*.
 penyebutan kata "irfnrdh" adalah "**Irf**an**n**u**r** **D**ia**h**".
@@ -15,7 +15,7 @@ jadi jangan menyebut kata "irfnrdh" dengan "i . r . f .  n . r . d .h " karena i
 dalam kaidah bahasa Indonesia ini mungkin bisa jadi hal yang salah. \
 Kamu, tak perlu risau. biarkan filosofi itu sendiri yang akan berbicara.
 
-**Siapa dia, Irfannur Diah?**
+## **Siapa dia, Irfannur Diah?**
 
 Dia bukan siapa-siapa. Manusia biasa.\
 \
