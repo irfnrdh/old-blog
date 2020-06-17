@@ -7,47 +7,36 @@ layout: page
 
 **Apa itu irfnrdh?**
 
-**irfnrdh** adalah sebuah* nama singkat *yang **diberikan oleh orang yang spesial**. \
-penyebutan kata "irfnrdh" bukan kata itu sendiri melainkan "**Irf**an**n**u**r** **D**ia**h**".
+**irfnrdh** adalah sebuah nama singkat yang *diberikan oleh orang yang spesial*.
+penyebutan kata "irfnrdh" adalah "**Irf**an**n**u**r** **D**ia**h**".
+
+jadi jangan menyebut kata "irfnrdh" dengan "i . r . f .  n . r . d .h " karena itu akan menyulitkan kamu.
+
+dalam kaidah bahasa Indonesia ini mungkin bisa jadi hal yang salah. \
+Kamu, tak perlu risau. biarkan filosofi itu sendiri yang akan berbicara.
 
 **Siapa dia, Irfannur Diah?**
 
-dia bukan siapa-siapa. 
-dia cuma manusia biasa yang pernah nakal dan banyak dosa tentunya.<br/>
+Dia bukan siapa-siapa. Manusia biasa.\
+\
+Hidupnya dipenuhi oleh pertanyaan yang membuatnya berfikir \
+sampai lupa membuatnya menulis dan mengamati hal-hal yang detail membuatnya  menganalisa.\
+segenap rasa penasarannya membuatnya menjelajah semuanya, \
+begitu pula rasa kebodohannya  membuat ia terus belajar.
 
-Saat ini ia sedang melewati masa mudanya ditemani bidadari dan sebentar lagi akan ada seorang sahabat baru.
-tak banyak yang bisa ia bicarakan karena dia seorang yang lebih dikenal pendiam.
-hari-harinya dihabiskan didepan komputer hampir sepanjang hari dari kecil hingga hari ini.
-<br/>
-kini ia mulai menjadi seorang yang berusaha percaya pada dirinya sendiri.
-ia sering di bilang aneh oleh temannya bahkan juga keluarganya.
+Dunia ini bisa jadi hal yang sempit dan luas dalam pikirannya.
+
+Saat ini ia sedang melewati masa terakhirnya ditemani bidadari dan sebentar lagi akan ada seorang sahabat baru.
+
+Tak banyak basa-basi.  hari-harinya dihabiskan didepan komputer hampir sepanjang hari sejak kecil hingga hari ini.
+
+kini ia mulai menjadi seorang yang berusaha percaya pada dirinya sendiri. 
+
+Ia sering di bilang aneh oleh temannya bahkan juga keluarganya.
 tapi itu tidak membuatnya merasa aneh, karena dia percaya.
-<br/>
-ini adalah hari terakhirnya.
-<br/>
+
+ini adalah hari terakhirnya dan hari ini harus lebih baik dari kemarin.
+
 tak banyak yang bisa ia bagikan, kecuali catatan kecil ini.
-<br/>
-semoga bermanfaat. ^_^
-<br/>
 
-* [Introduce](https://irfnrdh.github.io/intro/)
-
-* [Artwork](https://irfnrdh.github.io/karya/)
-
-# Manusia tak lepas dari manusia lainnya
-
-Internet bukan tempat yang tepat untuk mencurahkan isi. Lebih tepatnya adalah untuk memberikan segenap cerita yang mudahan bisa menjadi pelajaran. [jangan klik, kalau gak mau follow](https://instagram.com/irfnrdh).
-
-## Anti-Mainstream
-
-Pertama sekali saya dipertemukan dengan blog 2007 silam. Senang rasanya bisa ke warnet terus browsing tanpa henti. <br/>
-ternyata blog menjadi bagian yang tak terpisahkan dari hidup saya sampai 2020 ini. <br/>
-siapa sangka dari sekedar hobi dengan ngutak-ngatik thema blog jadi web developer yang khusus mainin front-end.<br/>
-Siapa sangka dari sekedar menulis berubah menjadi pekerjaan copywriting dan akhirnya iklan, seo, dan tetek bengek digital marketing.
-<br/>
-sekarang saya gunain jeykell walaupun sebenarnya udah ketinggalan juga disaingi hugo.
-terserah. karena teknologi sebenarnya tak membatasi. kitalah yang terlalu berpikiran terbatas.
-<br/>
-berfikir punya segalanya baru bisa berfikir dan berbuat. Padahal semakin memiliki segalanya semakin berfikir takut untuk berbuat.
-<br/>
--_- be your self.
+semoga bermanfaat & be yourself. ^_^
