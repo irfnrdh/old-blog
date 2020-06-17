@@ -22,23 +22,24 @@ Berikut ada beberapa buku yang rekomendasi banget untuk dibaca. saya akan melist
 
 ## Bahasa Inggris
 
-* **Explosive Growth: A Few Things I Learned While Growing To 100 Million Users - And Losing $78 Million**  
+* **Explosive Growth: A Few Things I Learned While Growing To 100 Million Users - And Losing $78 Million**\
   oleh Cliff Lerner
 
-* **Words That Change Minds: The 14 Patterns for Mastering the Language of Influence**  
+* **Words That Change Minds: The 14 Patterns for Mastering the Language of Influence**\
   oleh Shelle Rose Charvet
 
-* **Steve Jobs**  
+* **Steve Jobs**\
   oleh Walter Isaacson
 
-* **The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses**  
+* **The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses**\
   oleh Eric Ries
 
-* **Zero to One: Notes on Startups, or How to Build the Future**  
+* **Zero to One: Notes on Startups, or How to Build the Future**\
   oleh Peter Thiel
 
-* **The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers**  
+* **The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers**\
   oleh Ben Horowitz
 
-
 ## Bahasa Indonesia
+
+[https://www.goodreads.com/list/show/71990.40_High_Impact_Books_for_Entrepreneurs](https://www.goodreads.com/list/show/71990.40_High_Impact_Books_for_Entrepreneurs)
