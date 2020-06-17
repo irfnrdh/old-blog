@@ -20,6 +20,8 @@ Membaca buku harus bisa jadi budaya apalagi untuk seorang pembisnis yang akan su
 
 Berikut ada beberapa buku yang rekomendasi banget untuk dibaca. saya akan melistkannya dalam beberapa buku.
 
+## Bahasa Inggris
+
 * **Explosive Growth: A Few Things I Learned While Growing To 100 Million Users - And Losing $78 Million**\
   oleh Cliff Lerner
 
@@ -35,4 +37,4 @@ Berikut ada beberapa buku yang rekomendasi banget untuk dibaca. saya akan melist
 * **Zero to One: Notes on Startups, or How to Build the Future**\
   oleh Peter Thiel
 
-* 
+## Bahasa Indonesia
